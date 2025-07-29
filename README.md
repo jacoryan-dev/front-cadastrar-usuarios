@@ -44,14 +44,13 @@ Este projeto é um front-end completo para um sistema de cadastro de usuários, 
 
 ## 🚀 Tecnologias Utilizadas
 
-* **React 19.1.0** - Biblioteca JavaScript para interfaces de usuário
-* **React Router DOM 7.7.0** - Roteamento para aplicações React
-* **Tailwind CSS 4.1.11** - Framework CSS utilitário
-* **Axios 1.11.0** - Cliente HTTP
-* **Vite 7.0.4** - Build tool e bundler
-* **ESLint 9.30.1** - Linter
-* **TypeScript** - Tipagem estática
-
+* **React 19.1.0** - Biblioteca JavaScript para interfaces de usuário  
+* **React Router DOM 7.7.0** - Roteamento para aplicações React  
+* **Tailwind CSS 4.1.11** - Framework CSS utilitário  
+* **Axios 1.11.0** - Cliente HTTP  
+* **Vite 7.0.4** - Build tool e bundler  
+* **ESLint 9.30.1** - Linter de código  
+* **JavaScript (ES6+)** - Linguagem principal do projeto  
 ---
 
 ## 📁 Estrutura do Projeto
@@ -160,9 +159,5 @@ GitHub: [@jacoryan-dev](https://github.com/jacoryan-dev)
 
 ---
 
-⭐ Se gostou do projeto, considere dar uma estrela no repositório!
+⭐ Se gostou do projeto, considere dar uma estrela no repositório!😉
 
----
-
-Quer que eu também **adicione badges extras** (versão do Node, status do build, licença) e **uma tabela bonita de tecnologias**?
-Posso deixar com **estilo profissional de projeto open source** (tipo repositórios famosos). Quer?
