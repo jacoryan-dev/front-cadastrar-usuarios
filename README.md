@@ -15,14 +15,14 @@ Um front-end para sistema de cadastro de usuários com autenticação JWT, const
 
 ### Tela de Cadastro
 
-<div align="center">
+<div>
   <img src="docs/images/cadastro-screen.png" alt="Tela de Cadastro" width="800"/>
   <p><em>Interface de cadastro com campos para nome, e-mail e senha</em></p>
 </div>
 
 ### Tela de Login
 
-<div align="center">
+<div>
   <img src="docs/images/login-screen.png" alt="Tela de Login" width="800"/>
   <p><em>Interface de login simplificada e intuitiva</em></p>
 </div>
