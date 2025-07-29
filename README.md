@@ -2,26 +2,30 @@
 
 # 👤 Sistema de Cadastro de Usuários
 
+Um front-end para sistema de cadastro de usuários com autenticação JWT, construído com **React**, **Tailwind CSS** e **Axios**.
+
+![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge\&logo=react\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.11-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-1.11.0-5A29E4?style=for-the-badge\&logo=axios\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-7.0.4-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+
+---
+
 ## 🖼️ Screenshots da Interface
 
 ### Tela de Cadastro
 
-<div>
   <img src="docs/images/cadastro-screen.png" alt="Tela de Cadastro" width="800"/>
-  <p><em>Interface de cadastro com campos para nome, e-mail e senha</em></p>
-</div>
+  Interface de cadastro com campos para nome, e-mail e senha
 
 ### Tela de Login
-    
-<div align="center">
+
+<div>
   <img src="docs/images/login-screen.png" alt="Tela de Login" width="800"/>
   <p><em>Interface de login simplificada e intuitiva</em></p>
-</div>derno e responsivo para sistema de cadastro de usuários com autenticação JWT, construído com React, Tailwind CSS e Axios.
+</div>
 
-![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.11-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-1.11.0-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-7.0.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+---
 
 ## 📋 Sobre o Projeto
 
@@ -142,34 +146,6 @@ npm run build
 Deploy sugerido: Vercel, Netlify, GitHub Pages ou AWS S3.
 
 ---
-
-## 🤝 Contribuição
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📷 Adicionando Screenshots
-
-Para adicionar as imagens das interfaces ao projeto:
-
-1. **Salve as imagens** na pasta `docs/images/`
-
-   - `cadastro-screen.png` - Screenshot da tela de cadastro
-   - `login-screen.png` - Screenshot da tela de login
-
-2. **Formatos recomendados:**
-
-   - PNG para melhor qualidade
-   - Resolução mínima: 1200x800px
-   - Tamanho máximo: 2MB por imagem
-
-3. **Captura ideal:**
-   - Capture a tela completa da aplicação
-   - Certifique-se de que a interface esteja bem visível
-   - Use dados fictícios nos formulários para demonstração
 
 ## 📄 Licença
 
