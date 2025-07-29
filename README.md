@@ -1,6 +1,20 @@
 # 👤 Sistema de Cadastro de Usuários
 
-Um front-end moderno e responsivo para sistema de cadastro de usuários com autenticação JWT, construído com React, Tailwind CSS e Axios.
+## 🖼️ Screenshots da Interface
+
+### Tela de Cadastro
+
+<div align="center">
+  <img src="docs/images/cadastro-screen.png" alt="Tela de Cadastro" width="800"/>
+  <p><em>Interface de cadastro com campos para nome, e-mail e senha</em></p>
+</div>
+
+### Tela de Login
+    
+<div align="center">
+  <img src="docs/images/login-screen.png" alt="Tela de Login" width="800"/>
+  <p><em>Interface de login simplificada e intuitiva</em></p>
+</div>derno e responsivo para sistema de cadastro de usuários com autenticação JWT, construído com React, Tailwind CSS e Axios.
 
 ![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.11-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
