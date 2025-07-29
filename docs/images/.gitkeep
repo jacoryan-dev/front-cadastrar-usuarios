@@ -1,0 +1,10 @@
+# Pasta para screenshots da interface
+
+Esta pasta deve conter:
+  - cadastro-screen.png - Screenshot da tela de cadastro
+  - login-screen.png - Screenshot da tela de login
+
+As imagens devem ter:
+  - Formato PNG
+  - Resolução mínima: 1200x800px
+  - Tamanho máximo: 2MB por imagem
